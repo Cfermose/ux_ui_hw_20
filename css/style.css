@@ -39,5 +39,51 @@ a.nav-link {
     display: flex;
     
    
-    }
+}
 
+
+
+.research {
+    padding: 30px 30px 30px 30px;
+}
+
+.content {
+    padding: 50px;
+}
+
+
+.jumbotron {
+    width: 100%;
+    
+}
+
+
+
+
+.cardContainer {
+    margin-top: 40px;
+    
+}
+
+.cardImg {
+width: 50%;
+
+}
+
+.cards {
+text-align: center;
+}
+
+.card-text {
+text-align: left;
+}
+
+
+.card-bod {
+padding-bottom: 80px;
+}
+
+.sectionHead {
+text-align: center;
+padding: 5px;
+}
