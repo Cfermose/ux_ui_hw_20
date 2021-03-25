@@ -8,17 +8,20 @@
 }
   
 .navbar-nav {
-    margin-left: 80%;
+    margin-left: 75%;
 }
 
 .nav-item {
     margin:0px 15px;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 18px;
     
    
 }
 
 .navbar-brand {
     color: white;
+    font-family: 'Merriweather', serif;
 }
 
 a.nav-link {
