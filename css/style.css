@@ -76,6 +76,7 @@ text-align: center;
 
 .card-text {
 text-align: left;
+padding: 30px;
 }
 
 
@@ -86,4 +87,25 @@ padding-bottom: 80px;
 .sectionHead {
 text-align: center;
 padding: 5px;
+}
+
+
+.iteration {
+display:flex;
+padding: 40px;
+}
+
+.media-body1 {
+padding-top: 15%;
+padding-left: 100px;
+}
+
+.media-body2 {
+padding-top: 10%;
+padding-left: 100px;
+}
+
+.media-body3 {
+padding-top: 10%;
+padding-left: 100px;
 }
